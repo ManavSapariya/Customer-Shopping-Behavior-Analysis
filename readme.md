@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](Dashboardimg.png)
+![Customer Behavior Dashboard](DashboardImg.png)
 
 ---
 
