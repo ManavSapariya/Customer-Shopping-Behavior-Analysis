@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-> An end-to-end Data Analytics project that analyzes customer shopping behavior using **Python, PostgreSQL, SQL, and Power BI** to uncover spending patterns, customer segments, subscription trends, and business insights.
+> An end-to-end Data Analytics project that analyzes customer shopping behavior using **Python, MySQL, SQL, and Power BI** to uncover spending patterns, customer segments, subscription trends, and business insights.
 
 ---
 
@@ -17,7 +17,7 @@ This project analyzes customer shopping behavior using transactional data from *
 The project follows a complete analytics workflow:
 
 - Data Cleaning & Preparation using Python
-- Data Storage & Analysis using PostgreSQL
+- Data Storage & Analysis using MySQL
 - Business Querying using SQL
 - Interactive Dashboard Development using Power BI
 - Business Recommendations based on analytical findings
@@ -71,7 +71,7 @@ Performed complete preprocessing using **Pandas**.
 - Created Age Group feature
 - Created Purchase Frequency feature
 - Removed redundant columns
-- Loaded cleaned data into PostgreSQL
+- Loaded cleaned data into MySQl
 
 ---
 
